@@ -1,4 +1,4 @@
 # new project
 
 This project was created by local system.
-ceated by Shamsuddoza Shifat.
+ceated by Shamsuddoza Shifat
